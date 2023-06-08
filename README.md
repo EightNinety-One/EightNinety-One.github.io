@@ -1,17 +1,15 @@
-<DOCTYPE html>
+ <DOCTYPE html>
   <html lang="en">
-  
   <style>
   body {
     background-image: url('https://www.seti.org/sites/default/files/styles/original/public/2020-03/Mars-Header-March-2020.jpg?itok=s9nYgynh');
   }
   </style>
-   <head>
+   
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <font color="#FFFFFF">  <center>My Github Page</center>
     <link rel="stylesheet" href="styles.css">
-   </head>
   
   
   
@@ -56,7 +54,6 @@
     <footer>
       <p>&copy; 2023 My Github Page. All rights reserved.</p>
     </footer>
-  </body>
+  
   
   </html>
-  
